@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -66,8 +66,7 @@
               "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:23:50.916Z",
-              "EditorCaption": " [Projekt]"
+              "WhenOpened": "2025-05-10T19:23:50.916Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs [Projekt]",
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Start.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T15:51:38.127Z",
-              "EditorCaption": " [Projekt]"
+              "WhenOpened": "2025-05-10T15:51:38.127Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Start.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:37:24.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T14:37:24.97Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:27:58.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T14:27:58.419Z"
             }
           ]
         }
