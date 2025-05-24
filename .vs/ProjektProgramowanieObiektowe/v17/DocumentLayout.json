@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\dodajprojekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\dodajprojekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\models\\projekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\models\\projekty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\dodajprojekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\dodajprojekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\menadzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\models\\pracownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\models\\pracownicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\menadzer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\menadzer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|c:\\users\\amadeo\\documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\models\\przypisania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\models\\przypisania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64164DE3-CA34-43A9-B210-EECDA83EDB93}|ProjektProgramowanieObiektowe\\ProjektProgramowanieObiektowe.csproj|solutionrelative:projektprogramowanieobiektowe\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +66,185 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pracownik.cs",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "GlobalData.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\GlobalData.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\GlobalData.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\GlobalData.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\GlobalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:30:41.703Z",
+              "WhenOpened": "2025-05-24T19:32:32.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pracownik.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Pracownik.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Program.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Program.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Program.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:23:50.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menadzer.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.Designer.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Menadzer.Designer.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.Designer.cs",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Menadzer.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:15:32.367Z",
+              "WhenOpened": "2025-05-24T19:29:14.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Menadzer.cs",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Menadzer.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Menadzer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Start.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:15:51.078Z",
+              "WhenOpened": "2025-05-24T19:21:26.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DodajProjekt.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:17:50.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DodajProjekt.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\DodajProjekt.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\DodajProjekt.cs [Projekt]",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\DodajProjekt.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:33:52.738Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Menadzer.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs",
               "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Menadzer.cs",
               "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs [Projekt]",
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Menadzer.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:15:12.939Z",
+              "WhenOpened": "2025-05-24T17:45:59.755Z",
               "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projekty.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Projekty.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Models\\Projekty.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Projekty.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Models\\Projekty.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:08:10.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pracownicy.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Pracownicy.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Models\\Pracownicy.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Pracownicy.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Models\\Pracownicy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:08:08.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Menadzer.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Menadzer.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Menadzer.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Menadzer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:33:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:46:35.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:16:16.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Przypisania.cs",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Przypisania.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Models\\Przypisania.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Models\\Przypisania.cs",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Models\\Przypisania.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:45:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Start.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs",
               "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Start.cs",
               "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs [Projekt]",
               "RelativeToolTip": "ProjektProgramowanieObiektowe\\Start.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T15:51:38.127Z"
+              "WhenOpened": "2025-05-21T12:32:50.111Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Start.cs",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Start.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Start.cs",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Start.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Pracownik.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs",
+              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Pracownik.cs",
+              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
+              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Pracownik.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:37:24.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Program.cs",
-              "RelativeDocumentMoniker": "ProjektProgramowanieObiektowe\\Program.cs",
-              "ToolTip": "C:\\Users\\Amadeo\\Documents\\repozytoria\\obiekty\\ProjektProgramowanieObiektowe\\Program.cs",
-              "RelativeToolTip": "ProjektProgramowanieObiektowe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T14:27:58.419Z"
+              "WhenOpened": "2025-05-10T19:23:50.916Z",
+              "EditorCaption": " [Projekt]"
             }
           ]
         }

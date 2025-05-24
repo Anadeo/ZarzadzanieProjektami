@@ -7,6 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using ProjektProgramowanieObiektowe.Data;
+using ProjektProgramowanieObiektowe.Models;
 
 namespace ProjektProgramowanieObiektowe
 {
@@ -20,6 +24,13 @@ namespace ProjektProgramowanieObiektowe
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Projekt_Click(object sender, EventArgs e)
+        {
+            DodajProjekt dodajprojekt = new DodajProjekt();
+            dodajprojekt.Show();
+            this.Hide();
         }
     }
 }
