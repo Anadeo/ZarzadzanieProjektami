@@ -32,5 +32,19 @@ namespace ProjektProgramowanieObiektowe
             dodajprojekt.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DodajPracownika okna_pracownik = new DodajPracownika();
+            okna_pracownik.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Zarzadzaj_przypisania przypisania = new Zarzadzaj_przypisania();
+            przypisania.Show();
+            this.Hide();
+        }
     }
 }

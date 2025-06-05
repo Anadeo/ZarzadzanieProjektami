@@ -11,13 +11,11 @@ namespace ProjektProgramowanieObiektowe.Models
     [Table("przypisania")]
     public class Przypisania
     {
-        [Key]
         [Column("id_projekt")]
-        public int Id_projekt { get; set; }
+        public int id_projekt { get; set; }
 
-        [Required]
         [Column("id_pracownik")]
-        public int Id_pracownik { get; set; }
+        public int id_pracownik { get; set; }
 
         [Required]
         [Column("opis_zadania")]

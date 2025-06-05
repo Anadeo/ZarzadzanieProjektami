@@ -93,6 +93,7 @@
             button2.TabIndex = 2;
             button2.Text = "dodaj pracownika";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button1
             // 
@@ -101,8 +102,9 @@
             button1.Name = "button1";
             button1.Size = new Size(150, 50);
             button1.TabIndex = 1;
-            button1.Text = "przydziel pracowników do zadania";
+            button1.Text = "przydziel pracowników do projektu";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // Projekt
             // 

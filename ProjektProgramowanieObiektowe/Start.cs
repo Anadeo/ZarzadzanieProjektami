@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,6 +34,28 @@ namespace ProjektProgramowanieObiektowe
             this.Hide();
         }
         private void pracownik_click(object sender, EventArgs e)
+        {
+            if (int.TryParse(podaj_id_text.Text, out int id))
+            {
+                bool istnieje = GlobalData.context.Pracownicy.Any(p => p.Id == id);
+                if (istnieje) 
+                {
+                    Pracownik pracownik = new Pracownik(id);
+                    pracownik.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    podaj_id_label.Text = "Pracownik o takim id nie istnieje!";
+                }
+            }
+            else
+            {
+                podaj_id_label.Text = "Wprowadź poprawną liczbę";
+            }
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
         {
 
         }

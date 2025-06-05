@@ -29,11 +29,6 @@ namespace ProjektProgramowanieObiektowe.Models
         [Column("data_zatrudnienia")]
         public DateTime DataZatrudnienia { get; set; }
 
-        //public List<Przypisania> Przypisania { get; set; } = new List<Przypisania>();
-
-        //public Pracownicy()
-        //{
-        //    this.DataZatrudnienia = DateTime.Now;
-        //}
+        public List<Przypisania> Przypisania { get; set; } = new List<Przypisania>();
     }
 }

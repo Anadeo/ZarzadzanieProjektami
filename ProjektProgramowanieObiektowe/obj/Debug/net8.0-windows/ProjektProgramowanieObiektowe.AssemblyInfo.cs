@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjektProgramowanieObiektowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7bdf93c15532d7974e6c292a2fc45e5a31e664")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+776e24401e0bd754bf6e36b961071b489fdf2140")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjektProgramowanieObiektowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjektProgramowanieObiektowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

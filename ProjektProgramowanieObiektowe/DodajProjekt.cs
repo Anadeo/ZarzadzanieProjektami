@@ -26,9 +26,21 @@ namespace ProjektProgramowanieObiektowe
             Projekty projekty = new Projekty();
             projekty.Nazwa = projekt_textbox.Text;
             projekty.Czy_gotowy = false;
-            GlobalData.context.Projekty.Add(projekty);
+            context.Projekty.Add(projekty);
             context.SaveChanges();
             MessageBox.Show("Dodano!");
+            Menadzer menadzer = new Menadzer();
+            menadzer.Show();
+            this.Hide();
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             Menadzer menadzer = new Menadzer();
             menadzer.Show();
             this.Hide();
